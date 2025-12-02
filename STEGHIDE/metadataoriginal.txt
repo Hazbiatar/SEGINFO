@@ -1,0 +1,26 @@
+ExifTool Version Number         : 12.76
+File Name                       : NISSAN.jpg
+Directory                       : .
+File Size                       : 358 kB
+File Modification Date/Time     : 2025:12:02 18:39:45+00:00
+File Access Date/Time           : 2025:12:02 18:40:14+00:00
+File Inode Change Date/Time     : 2025:12:02 18:39:45+00:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Orientation                     : Horizontal (normal)
+X Resolution                    : 1
+Y Resolution                    : 1
+Resolution Unit                 : None
+Y Cb Cr Positioning             : Centered
+Image Width                     : 1200
+Image Height                    : 900
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 1200x900
+Megapixels                      : 1.1
